@@ -1,1 +1,2 @@
 table
+responsive table
